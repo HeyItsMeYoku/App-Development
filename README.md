@@ -4,7 +4,7 @@
 ### Team Members:
 - Yassine
 - Ali
-- Aida
+- Aïda
 - Adem
 - Ramzy
 - Omar
