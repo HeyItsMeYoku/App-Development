@@ -29,5 +29,5 @@ This project is part of the Multidisciplinary Project Module, focusing on develo
 ## Contact us
 For any inquiries, please reach out to any team member or open an issue in the repository.
 
-## - This README will be updated as the project progresses.
+## -> This README will be updated as the project progresses.
 
